@@ -2,15 +2,20 @@
 
 Homebrew Formula for the KiCad EDA Software
 
-I try to update this daily for KICAD Builds
-
 ## Install
 
-    brew tap shaneburrell/homebrew-kicad
+    brew tap osterwood/homebrew-kicad
     brew install --HEAD kicad
+
+If you run into issues, run
+
+    brew install -v --HEAD kicad
 
 ## Contributions and Original Work
 
-Thanks to https://github.com/peabody124 and https://github.com/mheuser
+Thanks to:
+    https://github.com/shaneburrell
+    https://github.com/peabody124
+    https://github.com/mheuser
 
 
